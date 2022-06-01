@@ -26,7 +26,7 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
     "react-svg-donuts": "^1.0.0",
-    "sharp": "^0.23.4",
+    "sharp": "^0.30.5",
     "styled-components": "^4.4.1"
   },
   "devDependencies": {
